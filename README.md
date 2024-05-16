@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [GroupSpend](https://groupspend-dk.web.app)
 
-- 🌱 I’m currently learning **ROS ,Flutter**
+- 🌱 I’m currently learning **ROS ,Flutter ,Dsa**
 
 - 👨‍💻 All of my projects are available at [davasam-karthikeya.web.app](davasam-karthikeya.web.app)
 
