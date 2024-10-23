@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [GroupSpend](https://groupspend-dk.web.app)
 
-- 🌱 I’m currently learning **ROS ,Flutter ,Dsa**
+- 🌱 I’m currently learning **ROS2, Flutter, Sensor Fusion**
 
 - 👨‍💻 All of my projects are available at [davasam-karthikeya.web.app](davasam-karthikeya.web.app)
 
-- 💬 Ask me about **Gazebo,Ros,Web Development**
+- 💬 Ask me about **Gazebo,Ros2,Web Development**
 
 - 📫 How to reach me **davasamkarthikeya@gmail.com**
 
