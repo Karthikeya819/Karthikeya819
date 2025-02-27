@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Davasam Karthikeya</h1>
+<h1 align="center">Hi 👋, I'm Karthikeya Davasam</h1>
 <h3 align="center">An Enthusiast coder.</h3>
 
 <img align="right" width="400" alt="Coding" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
