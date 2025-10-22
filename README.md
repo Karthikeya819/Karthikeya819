@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikeya819&label=Profile%20views&color=0e75b6&style=flat" alt="karthikeya819" /> </p>
 
-- 🔭 I’m currently working on [GroupSpend](https://groupspend-dk.web.app)
+- 🔭 I’m currently working on Quadrupeds
 
-- 🌱 I’m currently learning **ROS2, Flutter, Sensor Fusion**
+- 🌱 I’m currently learning **Reinforced Learning, Deep Learning, VLA's**
 
-- 👨‍💻 All of my projects are available at [davasam-karthikeya.web.app](davasam-karthikeya.web.app)
-
-- 💬 Ask me about **Gazebo,Ros2,Web Development**
+- 💬 Ask me about **Web Development, Robotics, Drones, Sensor Fusion**
 
 - 📫 How to reach me **davasamkarthikeya@gmail.com**
 
